@@ -30,6 +30,24 @@ python main.py
 ## Project Idea
 
 The system detects hand landmarks using MediaPipe and converts hand gestures into computer commands.
+## Project Demo
+
+### Finger Counter
+![Finger Counter](count fingers.png)
+
+### Presentation Control
+![virtual mouse](mouse.png)
+
+### Volume Control
+![Volume Control](volume.png)
+
+## Demo Video
+## 🎥 Demo Video
+
+Click the video below to watch the project in action.
+
+[Watch Demo](presentation control using fingers.mp4)
+
 
 ## Author
 
