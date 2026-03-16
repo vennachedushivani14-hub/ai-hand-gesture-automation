@@ -1,35 +1,53 @@
-# AI Hand Gesture Automation
+✋ AI Hand Gesture Automation
 
-This project uses computer vision and AI to control a computer using hand gestures.
+An AI-based computer vision system that allows users to control their computer using hand gestures.
 
-## Features
+Using this project you can:
 
-- Finger Counting
-- Virtual Mouse Control
-- Gesture Based Presentation Controller
-- Gesture Based Volume Control
+Control PowerPoint presentations
 
-## Technologies Used
+Count fingers using AI
 
-- Python
-- OpenCV
-- MediaPipe
-- PyAutoGUI
-- PyCAW
+Adjust system volume with hand gestures
 
-## How to Run
+Interact with your computer without touching the keyboard or mouse
 
-1. Install dependencies
+This project is built using Python, OpenCV, and MediaPipe.
 
-pip install -r requirements.txt
+🚀 Features
 
-2. Run the main program
+✋ Real-time Hand Detection
 
-python main.py
+🔢 Finger Counting System
 
-## Project Idea
+🎞 Gesture-based Presentation Controller
 
-The system detects hand landmarks using MediaPipe and converts hand gestures into computer commands.
+🔊 Hand Gesture Volume Control
+
+🖱 Foundations for Virtual Mouse Control
+
+🛠 Technologies Used
+
+Python
+
+OpenCV
+
+MediaPipe
+
+PyAutoGUI
+
+NumPy
+
+📂 Project Structure
+
+ai-hand-gesture-automation
+│
+├── gesture_test.py
+├── gesture_controller.py
+├── gesture_volume.py
+├── finger_counter.py
+├── requirements.txt
+└── README.md
 ## Project Demo
 
 ### Finger Counter
@@ -48,7 +66,36 @@ Click the video below to watch the project in action.
 
 [Watch Demo](presentation control using fingers.mp4)
 
+▶️ How to Run the Project
 
-## Author
+Clone the repository
 
-Shivani Vennachedu
+git clone https://github.com/YOUR-USERNAME/ai-hand-gesture-automation
+
+Go to the project folder
+
+cd ai-hand-gesture-automation
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run the project
+
+python gesture_controller.py
+
+💡 Future Improvements
+
+AI Virtual Mouse
+
+Gesture-based Media Player Control
+
+Gesture-based Smart Home Control
+
+Multi-hand gesture recognition
+
+👩‍💻 Author
+
+Created by Shivani
+
+AI & Machine Learning Enthusiast
